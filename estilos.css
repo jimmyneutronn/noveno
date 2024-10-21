@@ -1,9 +1,10 @@
-.grande { font-size: 60px; }
+grande { font-size: 60px; }
 body {
   background-color:#283747;
   font-family: Tahoma;
+  color:#fdedec;
 }
-#Diddy {
+#Diddy1  {
   width: 200px;
   height: 10px;
 }
